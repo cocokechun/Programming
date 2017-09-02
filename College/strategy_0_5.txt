@@ -1,0 +1,392 @@
+
+often
+cannot decode  o , 
+cannot decode  f , 
+cannot decode  t , 
+cannot decode  e , 
+cannot decode  n , 
+
+links
+cannot decode  l , 
+cannot decode  i , 
+decode  n  from  often
+cannot decode  k , 
+cannot decode  s , 
+
+tired
+decode  t  from  often
+decode  i  from  links
+cannot decode  r , 
+decode  e  from  often
+cannot decode  d , 
+
+civil
+cannot decode  c , 
+decode  i  from  links
+cannot decode  v , 
+decode  i  from  links
+decode  l  from  links
+
+damar
+decode  d  from  tired
+cannot decode  a , 
+cannot decode  m , 
+cannot decode  a , 
+decode  r  from  tired
+
+slimy
+decode  s  from  links
+decode  l  from  links
+decode  i  from  links
+decode  m  from  damar
+cannot decode  y , 
+
+comma
+decode  c  from  civil
+decode  o  from  often
+decode  m  from  damar
+decode  m  from  damar
+decode  a  from  damar
+
+7
+
+
+brush
+cannot decode  b , 
+cannot decode  r , 
+cannot decode  u , 
+cannot decode  s , 
+cannot decode  h , 
+
+rally
+decode  r  from  brush
+cannot decode  a , 
+cannot decode  l , 
+cannot decode  l , 
+cannot decode  y , 
+
+touch
+cannot decode  t , 
+cannot decode  o , 
+decode  u  from  brush
+cannot decode  c , 
+decode  h  from  brush
+
+infer
+cannot decode  i , 
+cannot decode  n , 
+cannot decode  f , 
+cannot decode  e , 
+decode  r  from  brush
+
+gushy
+cannot decode  g , 
+decode  u  from  brush
+decode  s  from  brush
+decode  h  from  brush
+decode  y  from  rally
+
+event
+decode  e  from  infer
+cannot decode  v , 
+decode  e  from  infer
+decode  n  from  infer
+decode  t  from  touch
+
+leave
+decode  l  from  rally
+decode  e  from  infer
+decode  a  from  rally
+decode  v  from  event
+decode  e  from  infer
+
+7
+
+
+horse
+cannot decode  h , 
+cannot decode  o , 
+cannot decode  r , 
+cannot decode  s , 
+cannot decode  e , 
+
+pause
+cannot decode  p , 
+cannot decode  a , 
+cannot decode  u , 
+decode  s  from  horse
+decode  e  from  horse
+
+baron
+cannot decode  b , 
+decode  a  from  pause
+decode  r  from  horse
+decode  o  from  horse
+cannot decode  n , 
+
+icons
+cannot decode  i , 
+cannot decode  c , 
+decode  o  from  horse
+decode  n  from  baron
+decode  s  from  horse
+
+muted
+cannot decode  m , 
+decode  u  from  pause
+cannot decode  t , 
+decode  e  from  horse
+cannot decode  d , 
+
+movie
+decode  m  from  muted
+decode  o  from  horse
+cannot decode  v , 
+decode  i  from  icons
+decode  e  from  horse
+
+tales
+decode  t  from  muted
+decode  a  from  pause
+cannot decode  l , 
+decode  e  from  horse
+decode  s  from  horse
+
+exert
+decode  e  from  horse
+cannot decode  x , 
+decode  e  from  horse
+decode  r  from  horse
+decode  t  from  muted
+
+label
+decode  l  from  tales
+decode  a  from  pause
+decode  b  from  baron
+decode  e  from  horse
+decode  l  from  tales
+
+9
+
+
+paint
+cannot decode  p , 
+cannot decode  a , 
+cannot decode  i , 
+cannot decode  n , 
+cannot decode  t , 
+
+untie
+cannot decode  u , 
+decode  n  from  paint
+decode  t  from  paint
+decode  i  from  paint
+cannot decode  e , 
+
+hobby
+cannot decode  h , 
+cannot decode  o , 
+cannot decode  b , 
+cannot decode  b , 
+cannot decode  y , 
+
+trend
+decode  t  from  paint
+cannot decode  r , 
+decode  e  from  untie
+decode  n  from  paint
+cannot decode  d , 
+
+pride
+decode  p  from  paint
+decode  r  from  trend
+decode  i  from  paint
+decode  d  from  trend
+decode  e  from  untie
+
+5
+
+
+sauce
+cannot decode  s , 
+cannot decode  a , 
+cannot decode  u , 
+cannot decode  c , 
+cannot decode  e , 
+
+globe
+cannot decode  g , 
+cannot decode  l , 
+cannot decode  o , 
+cannot decode  b , 
+decode  e  from  sauce
+
+dandy
+cannot decode  d , 
+decode  a  from  sauce
+cannot decode  n , 
+cannot decode  d , 
+cannot decode  y , 
+
+frown
+cannot decode  f , 
+cannot decode  r , 
+decode  o  from  globe
+cannot decode  w , 
+decode  n  from  dandy
+
+annal
+decode  a  from  sauce
+decode  n  from  dandy
+decode  n  from  dandy
+decode  a  from  sauce
+decode  l  from  globe
+
+5
+
+
+sixth
+cannot decode  s , 
+cannot decode  i , 
+cannot decode  x , 
+cannot decode  t , 
+cannot decode  h , 
+
+spell
+decode  s  from  sixth
+cannot decode  p , 
+cannot decode  e , 
+cannot decode  l , 
+cannot decode  l , 
+
+fluid
+cannot decode  f , 
+decode  l  from  spell
+cannot decode  u , 
+decode  i  from  sixth
+cannot decode  d , 
+
+corse
+cannot decode  c , 
+cannot decode  o , 
+cannot decode  r , 
+decode  s  from  sixth
+decode  e  from  spell
+
+waxer
+cannot decode  w , 
+cannot decode  a , 
+decode  x  from  sixth
+decode  e  from  spell
+decode  r  from  corse
+
+rumor
+decode  r  from  corse
+decode  u  from  fluid
+cannot decode  m , 
+decode  o  from  corse
+decode  r  from  corse
+
+cycle
+decode  c  from  corse
+cannot decode  y , 
+decode  c  from  corse
+decode  l  from  spell
+decode  e  from  spell
+
+shoot
+decode  s  from  sixth
+decode  h  from  sixth
+decode  o  from  corse
+decode  o  from  corse
+decode  t  from  sixth
+
+8
+
+
+ionic
+cannot decode  i , 
+cannot decode  o , 
+cannot decode  n , 
+cannot decode  i , 
+cannot decode  c , 
+
+brown
+cannot decode  b , 
+cannot decode  r , 
+decode  o  from  ionic
+cannot decode  w , 
+decode  n  from  ionic
+
+clear
+decode  c  from  ionic
+cannot decode  l , 
+cannot decode  e , 
+cannot decode  a , 
+decode  r  from  brown
+
+decay
+cannot decode  d , 
+decode  e  from  clear
+decode  c  from  ionic
+decode  a  from  clear
+cannot decode  y , 
+
+preen
+cannot decode  p , 
+decode  r  from  brown
+decode  e  from  clear
+decode  e  from  clear
+decode  n  from  ionic
+
+hiker
+cannot decode  h , 
+decode  i  from  ionic
+cannot decode  k , 
+decode  e  from  clear
+decode  r  from  brown
+
+lousy
+decode  l  from  clear
+decode  o  from  ionic
+cannot decode  u , 
+cannot decode  s , 
+decode  y  from  decay
+
+while
+decode  w  from  brown
+decode  h  from  hiker
+decode  i  from  ionic
+decode  l  from  clear
+decode  e  from  clear
+
+8
+
+
+zippy
+cannot decode  z , 
+cannot decode  i , 
+cannot decode  p , 
+cannot decode  p , 
+cannot decode  y , 
+
+gusty
+cannot decode  g , 
+cannot decode  u , 
+cannot decode  s , 
+cannot decode  t , 
+decode  y  from  zippy
+
+avoid
+cannot decode  a , 
+cannot decode  v , 
+cannot decode  o , 
+decode  i  from  zippy
+cannot decode  d , 
+
+block
+cannot decode  b , 
+cannot decode  l , 
+decode  o  from  avoid
+cannot decode  c , 
+cannot decode  k , 

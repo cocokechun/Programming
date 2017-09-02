@@ -1,0 +1,4 @@
+#include<fstream.h>
+#include<string.h>
+
+ifstream fin("batch.i

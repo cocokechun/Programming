@@ -1,0 +1,56 @@
+Oh my God, I can't believe this string period question has taken me a few 
+days. This question is actually not that hard. But why did it take so long?
+It is a good question to think about...
+Let me first summarize what parts I spent time on:
+
+%60 of time I was implementing an algorithm that was not correct and 
+outrageously flawed. 
+Why didn't realize the algorithm was not correct earlier? 
+1. Foremost, I didn't think thoroughly. 
+I was not crystally clear of some concepts I was about to implement. 
+It's actually very important that one can articulate the crucial concepts 
+in one's algorithm.
+In this question's case, the crucial concept will be "what is a cycle". I 
+didn't try to explicitly define it until this afternoon. Once I define it it is
+easy to transform to code.
+2. I didn't think critically.
+I didn't try to think of counter examples at all (if had tried to think of 
+a counter example to that faulty algorithm, it is pretty obvious that the
+algorithm doesn't work at all). Once you think your algorithm is right think
+hard of counter examples. Sometimes one small counter example is powerful 
+enough to make your whole algorithm wrong. At this moment, you should not
+regard the algorithm you just developed as your treasure. You should regard
+it as something extremely repulsive to you, like a chick? And you will try your 
+best to pick flaws in it so that other people won't like it either. Try really
+hard of counter examples. It will also help to think up the corner cases 
+in the future too.
+3. I didn't think independently. 
+I was "misled" by the tags (though I was not supposed to see 
+those tags at first place. It turned the tags were just ridiculous I feel). So
+I should have really just thought from scratch. 
+
+%30 of time I was fixing small bugs.
+There are several times the bugs I found were the important lines I 
+ACCIDENTALLY deleted. It means I indeed considered that case or I knew I should
+do it. But while I was deleting print statement I accidentally deleted them 
+as well. Isn't it stupid? It's purely avoidable....!!!! 
+
+Three Steps Have to Follow:
+1. Use English or Math Language to explicitly describe your algorithm. If
+    possible, try to mathematically prove it. Need to super clear of crucial
+    concepts in your own algorithm. 
+2. Think HARD of counter examples to your algorithm. The time you spend 
+    squeezing out a counter example is worth time you might waste later.
+3. Stay FOCUSED while implementing code. Every line you write ask yourself
+    if it is what you want to do, or did you use the right variable, type and
+    so on. Also think of EDGE CASES.
+
+One last thing that I got lucky this time was that because the inputs are 
+relatively short I was able to see the test cases I was failing 
+so it was much easier for me to catch small bugs or get the corner cases. 
+But usually things are not like this. 
+I should watch out avoidable bugs by myself and think of corner cases
+by myself.
+
+July 3rd, 2013 in Chicago
+Kechun Mao

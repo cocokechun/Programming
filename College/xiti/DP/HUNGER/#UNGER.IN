@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<stdlib.h>
+
+int n,k;
+int a[31000]={0};
+int min=0,max=0,len=0;
+
+
+int main(void)

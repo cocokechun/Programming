@@ -1,0 +1,237 @@
+sketcher quantize stepping tranquil abundant revision defaming hiatuses
+can decode letter  h  at position  0
+because  h  and  i  have both appeared at position  5  before |
+a  have appeared in  0  and  3  before |
+We know the digit when  i  appears at  3 in word  revision
+Therefore we know how to decode letter  h   at position 3
+
+
+can decode letter  i  at position  1
+because  i  and  a  have both appeared at position  5  before |
+r  have appeared in  1  and  0  before |
+We know the digit when  a  appears at  0 in word  abundant
+Therefore we know how to decode letter  i   at position 0
+
+
+can decode letter  a  at position  2
+because  a  and  a  have both appeared at position  3  before |
+a  have appeared in  2  and  0  before |
+We know the digit when  a  appears at  0 in word  abundant
+Therefore we know how to decode letter  a   at position 0
+
+
+can decode letter  t  at position  3
+because  t  and  a  have both appeared at position  3  before |
+t  have appeared in  3  and  0  before |
+We know the digit when  a  appears at  0 in word  abundant
+Therefore we know how to decode letter  t   at position 0
+
+
+can decode letter  u  at position  4
+because  u  and  a  have both appeared at position  5  before |
+d  have appeared in  4  and  0  before |
+We know the digit when  a  appears at  0 in word  abundant
+Therefore we know how to decode letter  u   at position 0
+
+
+can decode letter  s  at position  5
+because  s  and  a  have both appeared at position  0  before |
+u  have appeared in  5  and  2  before |
+We know the digit when  a  appears at  2 in word  tranquil
+Therefore we know how to decode letter  s   at position 2
+
+
+can decode letter  e  at position  6
+because  e  and  a  have both appeared at position  2  before |
+e  have appeared in  6  and  2  before |
+We know the digit when  a  appears at  2 in word  tranquil
+Therefore we know how to decode letter  e   at position 2
+
+
+can decode letter  s  at position  7
+because  s  and  a  have both appeared at position  0  before |
+r  have appeared in  7  and  0  before |
+We know the digit when  a  appears at  0 in word  abundant
+Therefore we know how to decode letter  s   at position 0
+
+
+8
+
+brighten airburst turquois transmit trillium fiftieth football
+can decode letter  f  at position  0
+because  f  and  a  have both appeared at position  2  before |
+f  have appeared in  0  and  0  before |
+We know the digit when  a  appears at  0 in word  airburst
+Therefore we know how to decode letter  f   at position 0
+
+
+can decode letter  o  at position  1
+because  o  and  e  have both appeared at position  5  before |
+i  have appeared in  1  and  5  before |
+We know the digit when  e  appears at  5 in word  fiftieth
+Therefore we know how to decode letter  o   at position 5
+
+
+can decode letter  o  at position  2
+because  o  and  e  have both appeared at position  5  before |
+i  have appeared in  2  and  5  before |
+We know the digit when  e  appears at  5 in word  fiftieth
+Therefore we know how to decode letter  o   at position 5
+
+
+can decode letter  t  at position  3
+because  t  and  b  have both appeared at position  3  before |
+t  have appeared in  3  and  3  before |
+We know the digit when  b  appears at  3 in word  airburst
+Therefore we know how to decode letter  t   at position 3
+
+
+can decode letter  b  at position  4
+because  b  and  l  have both appeared at position  3  before |
+i  have appeared in  4  and  4  before |
+We know the digit when  l  appears at  4 in word  trillium
+Therefore we know how to decode letter  b   at position 4
+
+
+can decode letter  a  at position  5
+because  a  and  a  have both appeared at position  2  before |
+t  have appeared in  5  and  0  before |
+We know the digit when  a  appears at  0 in word  airburst
+Therefore we know how to decode letter  a   at position 0
+
+
+can decode letter  l  at position  6
+because  l  and  i  have both appeared at position  4  before |
+i  have appeared in  6  and  1  before |
+We know the digit when  i  appears at  1 in word  fiftieth
+Therefore we know how to decode letter  l   at position 1
+
+
+can decode letter  l  at position  7
+because  l  and  b  have both appeared at position  3  before |
+t  have appeared in  7  and  0  before |
+We know the digit when  b  appears at  0 in word  brighten
+Therefore we know how to decode letter  l   at position 0
+
+
+7
+
+suborder rascally deceived wardenry polarize compound fingered leftover brussels
+can decode letter  b  at position  0
+because  b  and  c  have both appeared at position  2  before |
+l  have appeared in  0  and  0  before |
+We know the digit when  c  appears at  0 in word  compound
+Therefore we know how to decode letter  b   at position 0
+
+
+can decode letter  r  at position  1
+because  r  and  a  have both appeared at position  4  before |
+e  have appeared in  1  and  1  before |
+We know the digit when  a  appears at  1 in word  wardenry
+Therefore we know how to decode letter  r   at position 1
+
+
+can decode letter  u  at position  2
+because  u  and  a  have both appeared at position  1  before |
+r  have appeared in  2  and  4  before |
+We know the digit when  a  appears at  4 in word  rascally
+Therefore we know how to decode letter  u   at position 4
+
+
+can decode letter  s  at position  3
+because  s  and  c  have both appeared at position  0  before |
+c  have appeared in  3  and  0  before |
+We know the digit when  c  appears at  0 in word  compound
+Therefore we know how to decode letter  s   at position 0
+
+
+can decode letter  s  at position  4
+because  s  and  c  have both appeared at position  0  before |
+r  have appeared in  4  and  0  before |
+We know the digit when  c  appears at  0 in word  compound
+Therefore we know how to decode letter  s   at position 0
+
+
+can decode letter  e  at position  5
+because  e  and  a  have both appeared at position  1  before |
+i  have appeared in  5  and  1  before |
+We know the digit when  a  appears at  1 in word  wardenry
+Therefore we know how to decode letter  e   at position 1
+
+
+can decode letter  l  at position  6
+because  l  and  c  have both appeared at position  0  before |
+l  have appeared in  6  and  0  before |
+We know the digit when  c  appears at  0 in word  compound
+Therefore we know how to decode letter  l   at position 0
+
+
+can decode letter  s  at position  7
+because  s  and  c  have both appeared at position  0  before |
+r  have appeared in  7  and  0  before |
+We know the digit when  c  appears at  0 in word  compound
+Therefore we know how to decode letter  s   at position 0
+
+
+9
+
+refunder overblow vicelike direness spikiest carbonic landmark acoustic
+can decode letter  a  at position  0
+because  a  and  e  have both appeared at position  5  before |
+r  have appeared in  0  and  2  before |
+We know the digit when  e  appears at  2 in word  overblow
+Therefore we know how to decode letter  a   at position 2
+
+
+can decode letter  c  at position  1
+because  c  and  c  have both appeared at position  7  before |
+v  have appeared in  1  and  0  before |
+We know the digit when  c  appears at  0 in word  carbonic
+Therefore we know how to decode letter  c   at position 0
+
+
+can decode letter  o  at position  2
+because  o  and  c  have both appeared at position  0  before |
+c  have appeared in  2  and  0  before |
+We know the digit when  c  appears at  0 in word  carbonic
+Therefore we know how to decode letter  o   at position 0
+
+
+can decode letter  u  at position  3
+because  u  and  b  have both appeared at position  3  before |
+d  have appeared in  3  and  3  before |
+We know the digit when  b  appears at  3 in word  carbonic
+Therefore we know how to decode letter  u   at position 3
+
+
+can decode letter  s  at position  4
+because  s  and  c  have both appeared at position  7  before |
+l  have appeared in  4  and  0  before |
+We know the digit when  c  appears at  0 in word  carbonic
+Therefore we know how to decode letter  s   at position 0
+
+
+can decode letter  t  at position  5
+because  t  and  c  have both appeared at position  7  before |
+l  have appeared in  5  and  0  before |
+We know the digit when  c  appears at  0 in word  carbonic
+Therefore we know how to decode letter  t   at position 0
+
+
+can decode letter  i  at position  6
+because  i  and  a  have both appeared at position  5  before |
+e  have appeared in  6  and  5  before |
+We know the digit when  a  appears at  5 in word  landmark
+Therefore we know how to decode letter  i   at position 5
+
+
+can decode letter  c  at position  7
+because  c  and  c  have both appeared at position  7  before |
+s  have appeared in  7  and  0  before |
+We know the digit when  c  appears at  0 in word  carbonic
+Therefore we know how to decode letter  c   at position 0
+
+
+8
+
+slapping eyetooth foulness

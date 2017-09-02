@@ -1,0 +1,30 @@
+#include <iostream>
+#include <cstdlib>
+#include <ctime>
+
+using namespace std;
+
+string pref[111];
+string suff[111];
+
+void getpref(int i, int len)
+{
+  return pref[i].substr(0, len);
+}
+void getsuf(int i, int len)
+{
+  return suff[i].substr(suff[i].size() - len);
+}
+
+void pre()
+{
+  pref[0] = "0";
+  pref[1] = "1";
+  for(int i=2;i<=100;i++)
+    {
+
+
+int main()
+{
+  pre();
+}
